@@ -1,0 +1,1 @@
+Cum Achiuus decem annos Troiam capere non possent, equum ligneum fecerunt. Equum ab Epeio factum Hyginus scripsit. Achiuus se in equum absconditerunt. Cassandra dixit in sum equum hostes esse, sed nemo ei credidit. Troiani ab Achaeis reliquerunt credebant. Ea nocte, cum Troiani equum ante templum posuissent, Achaei ex equo Troiam potiunt.
