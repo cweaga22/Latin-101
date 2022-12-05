@@ -1,0 +1,9 @@
+Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. In eō *collēctī* **sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DEDERUNT**, castraque **transtulērunt** Tenedo. Cum id *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum *Cassandra* **diceret** equum **habere** *hostes*, fidēs eī non data est et equum pro templō **posuērunt**. Achīvī **exiērunt** et custodēs **occidērunt** et Troiam **sunt potitī**.
+"Decem annos" is in the accusative case and that is meant to show the duration of time.
+Fuissent is third person, plural, pluperfect, active, and indicative. The indicative mood means that the verb is stating a factual event that occurred.
+"Mirae magnitūdinis" is in the genitive case, singular, and feminine. Its function in the sentence is to describe the horse that was built.
+"Collecti sunt" is third person, plural, perfect, indicative, and passive. 
+"Cum id Troianī vidērunt" is a temporal clause and "cum" is a preposition.
+"Ei" is in the nominative case and its function in the sentence is the subject.
+"Exierunt" comes from the irregular verb "exeo".
+B:  When the Greeks had been in Troy for ten years, Epeus made a beautiful wooden horse of great magnitude. Those who gathered were Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus, and on the horse they wrote "Danaus gave a gift to Minerva", and they moved the camp to Tenedo. When the Trojans saw this, Priam led the horse into the temple of Minerva. When Cassandra said that the enemy had a horse, they did not believe her and they put the horse in the temple. The Greeks came out and killed the guards and conquered Troy. 
